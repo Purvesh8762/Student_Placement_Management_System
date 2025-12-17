@@ -27,6 +27,8 @@ It automates placement tracking, reporting, and dashboards using Salesforce decl
 
 ## salforce project url
    -purveshsawalakhe8762@gmail.com
+   username : sipnastuden8762@gmail.com
+   sitename :https://sipnacollegeofengineeringa2-dev-ed.develop.my.salesforce.com/_ui/system/security/ChangePassword
    
 
 ## 👨‍💻 Author
