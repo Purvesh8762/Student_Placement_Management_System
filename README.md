@@ -26,6 +26,7 @@ It automates placement tracking, reporting, and dashboards using Salesforce decl
 - Placement Distribution
 
 ## salforce project url
+   -purveshsawalakhe8762@gmail.com
    
 
 ## 👨‍💻 Author
